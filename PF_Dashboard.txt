@@ -1,177 +1,110 @@
 {
   "indicators": [
     {
-      "name": "CSB CPN précoce",
+      "name": "CSB TCC",
       "type": "indicator",
-      "dhisID": "g2NF4Z3cbj3",
-      "dhisName": "CSB MSR Taux de CPN précoce <4mois",
+      "dhisID": "MG50SMpXlXU",
+      "dhisName": "CSB PF Taux de couverture contraceptive",
       "groupCode": "G1"
     },
     {
-      "name": "CSB CPN1",
+      "name": "CHRD TCC",
       "type": "indicator",
-      "dhisID": "vseXEsxYqEN",
-      "dhisName": "CSB MSR Taux de couverture en CPN1",
+      "dhisID": "mo9Gm4aAp7n",
+      "dhisName": "CHRD Taux de couverture contraceptive au niveau CHRD",
       "groupCode": "G1"
     },
     {
-      "name": "CHRD CPN1",
+      "name": "COM TCC",
       "type": "indicator",
-      "dhisID": "TAtqlBAAMQX",
-      "dhisName": "CHRD Proportion Femmes enceintes vues en 1ère CPN",
+      "dhisID": "i0n8zCQ56wj",
+      "dhisName": "COM Taux de couverture contraceptive",
       "groupCode": "G1"
     },
     {
-      "name": "CSB CPN4+",
+      "name": "CSB NU",
       "type": "indicator",
-      "dhisID": "TuU9jZHMAXr",
-      "dhisName": "CSB MSR Taux de couverture en CPN4 et Plus",
-      "groupCode": "G1"
-    },
-    {
-      "name": "CHRD CPN4+",
-      "type": "indicator",
-      "dhisID": "SBgRM6P8WE8",
-      "dhisName": "CHRD Proportion Femmes enceintes ayant effectué 4 CPN et plus ",
-      "groupCode": "G1"
-    },
-    {
-      "name": "CSB accouchement ",
-      "type": "indicator",
-      "dhisID": "rZ284PLILin",
-      "dhisName": "CSB MSR Taux d'accouchement Total FS",
+      "dhisID": "IcYYNQAX1r9",
+      "dhisName": "CSB PF Nombre Total de Nouveaux utilisateurs",
       "groupCode": "G2"
     },
     {
-      "name": "CHRD accouchement",
+      "name": "COM NU",
       "type": "indicator",
-      "dhisID": "VPkbQLAolwg",
-      "dhisName": "CHRD Taux d’utilisation des accouchements à la Maternité",
+      "dhisID": "iXyvc4Hq7i1",
+      "dhisName": "COM Nombre total de nouveaux utilisateurs de contraception modernes",
       "groupCode": "G2"
     },
     {
-      "name": "CSB N-né < 2500g",
+      "name": "CSB UR",
       "type": "indicator",
-      "dhisID": "nHdWxA7cFvB",
-      "dhisName": "CSB MSR Proportion de nouveau-nés < 2500g",
-      "groupCode": "G2"
-    },
-    {
-      "name": "CHRD OC",
-      "type": "indicator",
-      "dhisID": "UO1ZZjdOXEk",
-      "dhisName": "CHRD Taux des Opérations Cesariennes au niveau hôpitaux",
-      "groupCode": "G2"
-    },
-    {
-      "name": "CSB Avortement",
-      "type": "indicator",
-      "dhisID": "EVNMRpf4gLB",
-      "dhisName": "CSB Proportion d'avortement ",
-      "groupCode": "G2"
-    },
-    {
-      "name": "CSB complication accouchement",
-      "type": "indicator",
-      "dhisID": "mORrsXxs7Qx",
-      "dhisName": "CSB MSR Proportion de complication accouchement": "G2"
-    },
-    {
-      "name": "COM # accouchement  à domicile",
-      "type": "indicator",
-      "dhisID": "Suffndxj7da",
-      "dhisName": "RMA_COM Nombre d' Accouchement  à domicile": "G2"
-    },
-    {
-      "name": "CSB CPoN 3 à 14 jours",
-      "type": "indicator",CSB MSR Proportion de complication accouchement
-      "dhisID": "OoAuAjNMCkj",
-      "dhisName": "CSB MSR Taux de couverture en Consultation Post Natale dans les 3 à 14 jours",
+      "dhisID": "PrVQm0PtNYO",
+      "dhisName": "CSB PF Nombre Total d'Utilisateurs Réguliers",
       "groupCode": "G3"
     },
     {
-      "name": "CSB décès maternel",
+      "name": "CSB UR DIU et Copper Tcu 380",
       "type": "indicator",
-      "dhisID": "zdVeI0RoIOj",
-      "dhisName": "CSB MSR Proportion de décès maternel",
-      "groupCode": "G4"
+      "dhisID": "mHCQCb0kYFN",
+      "dhisName": "CSB PF UR barriere DIUetCopper Tcu 380",
+      "groupCode": "G3"
     },
     {
-      "name": "CHRD décès maternel",
-      "type": "dataelement",
-      "dhisID": "nDkpPgtPi2v",
-      "dhisName": "CHRD Proportion des décès maternels ",
-      "groupCode": "G4"
-    },
-    {
-      "name": "CSB décès néonatal",
-      "type": "dataelement",
-      "dhisID": "FJ1BRlLGlj8",
-      "dhisName": "CSB MSR Proportion de décès néonatal (0-28j)",
-      "groupCode": "G4"
-    },
-    {
-      "name": "CHRD décès néonatal",
-      "type": "dataelement",
-      "dhisID": "t3IQ7q7xYwK",
-      "dhisName": "CHRD Proportion des décès néonataux 0-28 j",
-      "groupCode": "G4"
-    },
-    {
-      "name": "CSB  Oxytocine",
-      "type": "dataelement",
-      "dhisID": "IU2c0DA5SI0",
-      "dhisName": "CSB Intrant Gratuit MSR Taux de Disponibilite Oxytocine injectable",
-      "groupCode": "G5"
-    },
-    {
-      "name": "CHRD  Oxytocine",
+      "name": "CSB UR DMPA-IM",
       "type": "indicator",
-      "dhisID": "BC3uVoGxh1z",
-      "dhisName": "CHRD Taux de disponibilite en Oxytocine",
-      "groupCode": "G5"
+      "dhisID": "advYaTfEO7G",
+      "dhisName": "CSB PF UR contraceptif injectable  DMPA-IM",
+      "groupCode": "G3"
     },
     {
-      "name": "CSB Chlorhexidine",
+      "name": "CSB UR DMPA-SC",
       "type": "indicator",
-      "dhisID": "zseDQ6A8Q6m",
-      "dhisName": "CSB Intrant Gratuit MSR Taux de Disponibilite en Chlorhexidine",
-      "groupCode": "G5"
+      "dhisID": "eg1QoO5YSah",
+      "dhisName": "CSB PF UR contraceptif injectable  DMPA-SC",
+      "groupCode": "G3"
+    },
+	{
+      "name": "CSB UR implanon NXT",
+      "type": "indicator",
+      "dhisID": "XYr2UBAqIia",
+      "dhisName": "CSB PF UR implants implanon NXT",
+      "groupCode": "G3"
+    },
+	{
+      "name": "CSB UR lofemenal et microgynon",
+      "type": "indicator",
+      "dhisID": "hpZytEmks8e",
+      "dhisName": "CSB PF UR contraceptif oraux lofemenal et microgynon",
+      "groupCode": "G3"
     },
     {
-      "name": "COM Chlorhexidine",
+      "name": "CSB PDV",
       "type": "indicator",
-      "dhisID": "o18JraLOxf9",
-      "dhisName": "COM Taux de disponibilité en Chlorhexidine ",
-      "groupCode": "G5"
+      "dhisID": "k1ouDe1xASm",
+      "dhisName": "Taux de perdues de vue total",
+      "groupCode": "G4"
     },
     }
   ],
   "indicatorGroup": [
     {
       "code": "G1",
-      "name": "CPN",
-      "titre": "Taux de CPN au niveau FS"
+      "name": "Couverture contraceptive",
+      "titre": "taux de couverture contraceptive"
     },
     {
       "code": "G2",
-      "name": "Accouchement",
-      "titre": "Taux d'accouchement au niveau FS"
+      "name": "Nouvelles utilisatrices",
+      "titre": "Nombre des nouvelles utilisatrices contraceptives"
     },
     {
       "code": "G3",
-      "name": "CPoN 3",
-      "titre": "Taux de CPoN"
+      "name": "Utilisateurs réguliers",
+      "titre": "Suivi des UR PF"
     },
     {
       "code": "G4",
-      "name": "Décès",
-      "titre": "Décès maternel et néonatal au niveau FS"
-    },
-    {
-      "code": "G5",
-      "name": "Intrants",
-      "titre": "Taux disponibilité des Intrants de santé au niveau FS"
-    },
-    
+      "name": "PDV",
+      "titre": "Taux de perdue de vue"
+    },   
     }

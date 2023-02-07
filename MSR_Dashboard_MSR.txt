@@ -1,0 +1,177 @@
+{
+  "indicators": [
+    {
+      "name": "CSB CPN précoce",
+      "type": "indicator",
+      "dhisID": "g2NF4Z3cbj3",
+      "dhisName": "CSB MSR Taux de CPN précoce <4mois",
+      "groupCode": "G1"
+    },
+    {
+      "name": "CSB CPN1",
+      "type": "indicator",
+      "dhisID": "vseXEsxYqEN",
+      "dhisName": "CSB MSR Taux de couverture en CPN1",
+      "groupCode": "G1"
+    },
+    {
+      "name": "CHRD CPN1",
+      "type": "indicator",
+      "dhisID": "TAtqlBAAMQX",
+      "dhisName": "CHRD Proportion Femmes enceintes vues en 1ère CPN",
+      "groupCode": "G1"
+    },
+    {
+      "name": "CSB CPN4+",
+      "type": "indicator",
+      "dhisID": "TuU9jZHMAXr",
+      "dhisName": "CSB MSR Taux de couverture en CPN4 et Plus",
+      "groupCode": "G1"
+    },
+    {
+      "name": "CHRD CPN4+",
+      "type": "indicator",
+      "dhisID": "SBgRM6P8WE8",
+      "dhisName": "CHRD Proportion Femmes enceintes ayant effectué 4 CPN et plus ",
+      "groupCode": "G1"
+    },
+    {
+      "name": "CSB accouchement ",
+      "type": "indicator",
+      "dhisID": "rZ284PLILin",
+      "dhisName": "CSB MSR Taux d'accouchement Total FS",
+      "groupCode": "G2"
+    },
+    {
+      "name": "CHRD accouchement",
+      "type": "indicator",
+      "dhisID": "VPkbQLAolwg",
+      "dhisName": "CHRD Taux d’utilisation des accouchements à la Maternité",
+      "groupCode": "G2"
+    },
+    {
+      "name": "CSB N-né < 2500g",
+      "type": "indicator",
+      "dhisID": "nHdWxA7cFvB",
+      "dhisName": "CSB MSR Proportion de nouveau-nés < 2500g",
+      "groupCode": "G2"
+    },
+    {
+      "name": "CHRD OC",
+      "type": "indicator",
+      "dhisID": "UO1ZZjdOXEk",
+      "dhisName": "CHRD Taux des Opérations Cesariennes au niveau hôpitaux",
+      "groupCode": "G2"
+    },
+    {
+      "name": "CSB Avortement",
+      "type": "indicator",
+      "dhisID": "EVNMRpf4gLB",
+      "dhisName": "CSB Proportion d'avortement ",
+      "groupCode": "G2"
+    },
+    {
+      "name": "CSB complication accouchement",
+      "type": "indicator",
+      "dhisID": "mORrsXxs7Qx",
+      "dhisName": "CSB MSR Proportion de complication accouchement": "G2"
+    },
+    {
+      "name": "COM # accouchement  à domicile",
+      "type": "indicator",
+      "dhisID": "Suffndxj7da",
+      "dhisName": "RMA_COM Nombre d' Accouchement  à domicile": "G2"
+    },
+    {
+      "name": "CSB CPoN 3 à 14 jours",
+      "type": "indicator",CSB MSR Proportion de complication accouchement
+      "dhisID": "OoAuAjNMCkj",
+      "dhisName": "CSB MSR Taux de couverture en Consultation Post Natale dans les 3 à 14 jours",
+      "groupCode": "G3"
+    },
+    {
+      "name": "CSB décès maternel",
+      "type": "indicator",
+      "dhisID": "zdVeI0RoIOj",
+      "dhisName": "CSB MSR Proportion de décès maternel",
+      "groupCode": "G4"
+    },
+    {
+      "name": "CHRD décès maternel",
+      "type": "dataelement",
+      "dhisID": "nDkpPgtPi2v",
+      "dhisName": "CHRD Proportion des décès maternels ",
+      "groupCode": "G4"
+    },
+    {
+      "name": "CSB décès néonatal",
+      "type": "dataelement",
+      "dhisID": "FJ1BRlLGlj8",
+      "dhisName": "CSB MSR Proportion de décès néonatal (0-28j)",
+      "groupCode": "G4"
+    },
+    {
+      "name": "CHRD décès néonatal",
+      "type": "dataelement",
+      "dhisID": "t3IQ7q7xYwK",
+      "dhisName": "CHRD Proportion des décès néonataux 0-28 j",
+      "groupCode": "G4"
+    },
+    {
+      "name": "CSB  Oxytocine",
+      "type": "dataelement",
+      "dhisID": "IU2c0DA5SI0",
+      "dhisName": "CSB Intrant Gratuit MSR Taux de Disponibilite Oxytocine injectable",
+      "groupCode": "G5"
+    },
+    {
+      "name": "CHRD  Oxytocine",
+      "type": "indicator",
+      "dhisID": "BC3uVoGxh1z",
+      "dhisName": "CHRD Taux de disponibilite en Oxytocine",
+      "groupCode": "G5"
+    },
+    {
+      "name": "CSB Chlorhexidine",
+      "type": "indicator",
+      "dhisID": "zseDQ6A8Q6m",
+      "dhisName": "CSB Intrant Gratuit MSR Taux de Disponibilite en Chlorhexidine",
+      "groupCode": "G5"
+    },
+    {
+      "name": "COM Chlorhexidine",
+      "type": "indicator",
+      "dhisID": "o18JraLOxf9",
+      "dhisName": "COM Taux de disponibilité en Chlorhexidine ",
+      "groupCode": "G5"
+    },
+    }
+  ],
+  "indicatorGroup": [
+    {
+      "code": "G1",
+      "name": "CPN",
+      "titre": "Taux de CPN au niveau FS"
+    },
+    {
+      "code": "G2",
+      "name": "Accouchement",
+      "titre": "Taux d'accouchement au niveau FS"
+    },
+    {
+      "code": "G3",
+      "name": "CPoN 3",
+      "titre": "Taux de CPoN"
+    },
+    {
+      "code": "G4",
+      "name": "Décès",
+      "titre": "Décès maternel et néonatal au niveau FS"
+    },
+    {
+      "code": "G5",
+      "name": "Intrants",
+      "titre": "Taux disponibilité des Intrants de santé au niveau FS"
+    },
+    
+    }

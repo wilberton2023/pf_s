@@ -1,0 +1,265 @@
+{
+  "indicators": [
+    {
+      "name": "Total",
+      "type": "indicator",
+      "dhisID": "CYBvorjaF3c",
+      "dhisName": "CSB PALU Taux de positivité du paludisme par rapport aux tests RDT",
+      "groupCode": "G1"
+    },
+    {
+      "name": "0-5 ans",
+      "type": "indicator",
+      "dhisID": "HpKTyXNeVWW",
+      "dhisName": "CSB PALU Taux de positivité du paludisme par rapport aux tests RDT (chez les < 5 ans)",
+      "groupCode": "G1"
+    },
+    {
+      "name": "6-13 ans",
+      "type": "indicator",
+      "dhisID": "fdIdtHWGrOe",
+      "dhisName": "CSB PALU Taux de positivité du paludisme par rapport aux tests RDT  (6-13 ans)",
+      "groupCode": "G1"
+    },
+    {
+      "name": "14+",
+      "type": "indicator",
+      "dhisID": "Jr0c0vsG8kO",
+      "dhisName": "CSB PALU Taux de positivité du paludisme par rapport aux tests RDT  (14+)",
+      "groupCode": "G1"
+    },
+    {
+      "name": "Vus en Consultation Externe ",
+      "type": "indicator",
+      "dhisID": "bHdGClebARP",
+      "dhisName": "CSB PALU Proportion de cas de paludisme grave vus en consultations externes refere ",
+      "groupCode": "G2"
+    },
+    {
+      "name": "Total cas traité ACT",
+      "type": "indicator",
+      "dhisID": "VxJF9zNlxDT",
+      "dhisName": "CSB Palu Proportion de cas de paludisme  simple confirmés traité par ACT",
+      "groupCode": "G3"
+    },
+    {
+      "name": "Traité ACT 5 ans",
+      "type": "indicator",
+      "dhisID": "kcrink1PKc7",
+      "dhisName": "CSB Palu Proportion de cas de paludisme  simple confirmes chez les enfants <5 ans traite par ACT",
+      "groupCode": "G3"
+    },
+    {
+      "name": "Traité ACT 6 - 13 ans",
+      "type": "indicator",
+      "dhisID": "b4R07A4SU4y",
+      "dhisName": "CSB Palu Proportion de cas de paludisme  simple confirmes chez les enfants  6 - 13 ans traite par ACT",
+      "groupCode": "G3"
+    },
+    {
+      "name": "Traité ACT 14+ ans",
+      "type": "indicator",
+      "dhisID": "oxeFyDW46EQ",
+      "dhisName": "CSB Palu Proportion de cas de paludisme  simple confirmes chez les enfants 14+ traite par ACT",
+      "groupCode": "G3"
+    },
+    {
+      "name": "Traitement de pré-réference paludisme grave",
+      "type": "indicator",
+      "dhisID": "ciJsCzscv8n",
+      "dhisName": "CSB PALU Proportion de patients ayant reçu un traitement de pré-référence pour paludisme grave",
+      "groupCode": "G3"
+    },
+    {
+      "name": "0-5 ans ayant eu MID",
+      "type": "indicator",
+      "dhisID": "nva1DfOQ16Y",
+      "dhisName": "CSB PALU Proportion d'enfants < 5 ans  ayant recu un MID",
+      "groupCode": "G4"
+    },
+    {
+      "name": "Enfants complètement vaccinés ayant eu MID",
+      "type": "indicator",
+      "dhisID": "zwpg2p0rg9L",
+      "dhisName": "CSB PEV Porportion de MIDs distribuees aux enfants de moins de 1an completement vaccines",
+      "groupCode": "G4"
+    },
+    {
+      "name": "FE ayant eu TPI3 et +",
+      "type": "indicator",
+      "dhisID": "BNQ7j1HDgSm",
+      "dhisName": "CSB PALU Proportion de Femmes Enceintes ayant reçu TPI3 et plus",
+      "groupCode": "G4"
+    },
+    {
+      "name": "FE vues en CPN1 ayant eu MID",
+      "type": "indicator",
+      "dhisID": "PiTE2VkWRCH",
+      "dhisName": "CSB PALU Proportion de FE vues en 1ere CPN ayant eu MID",
+      "groupCode": "G4"
+    },
+    {
+      "name": "Fièvre toute cause",
+      "type": "dataelement",
+      "dhisID": "FvLKwx96Kv0",
+      "dhisName": "Nombre de cas de fievre toute cause CSB ",
+      "groupCode": "G5"
+    },
+    {
+      "name": "Fièvre testé RDT",
+      "type": "dataelement",
+      "dhisID": "q87CgC2m7fZ",
+      "dhisName": "Nombre de cas de fievre teste RDT CSB",
+      "groupCode": "G5"
+    },
+    {
+      "name": "Fièvre testé RDT palu + ",
+      "type": "dataelement",
+      "dhisID": "NU6LJrW5OtP",
+      "dhisName": "Fievre teste RDT+ CSB",
+      "groupCode": "G5"
+    },
+    {
+      "name": "RDT palu + traité par ACT",
+      "type": "dataelement",
+      "dhisID": "oWA1W7mmuba",
+      "dhisName": "Palu traite ACT CSB",
+      "groupCode": "G5"
+    },
+    {
+      "name": "RDT",
+      "type": "indicator",
+      "dhisID": "ye2hHO822d5",
+      "dhisName": "CSB Intrant Gratuit PALU Taux de Disponibilite RDT",
+      "groupCode": "G6"
+    },
+    {
+      "name": "SP FE",
+      "type": "indicator",
+      "dhisID": "cs9rtOwAZ8F",
+      "dhisName": "CSB Intrant Gratuit PALU Taux de Disponibilite en Sulfadoxine Pyrimethamine FE",
+      "groupCode": "G6"
+    },
+    {
+      "name": "MID routine",
+      "type": "indicator",
+      "dhisID": "rInBKsE1DdZ",
+      "dhisName": "CSB Intrant Gratuit PALU Taux de Disponibilite MID routine ",
+      "groupCode": "G6"
+    },
+    {
+      "name": "ACT 14+",
+      "type": "indicator",
+      "dhisID": "ak34TBRBozQ",
+      "dhisName": "CSB Intrant Gratuit PALU Taux de Disponibilite ACT 14ans et plus",
+      "groupCode": "G6"
+    },
+    {
+      "name": "ACT 1-5ans",
+      "type": "indicator",
+      "dhisID": "CsaLjbj2ykc",
+      "dhisName": "CSB Intrant Gratuit PALU Taux de Disponibilite ACT 1-5ans",
+      "groupCode": "G6"
+    },
+    {
+      "name": "ACT 2-11m",
+      "type": "indicator",
+      "dhisID": "TUUQarUxR64",
+      "dhisName": "CSB Intrant Gratuit PALU Taux de Disponibilite ACT 2-11m",
+      "groupCode": "G6"
+    },
+    {
+      "name": "ACT 6-13ans",
+      "type": "indicator",
+      "dhisID": "d7zqV9Y8BNl",
+      "dhisName": "CSB Intrant Gratuit PALU Taux de Disponibilite en ACT 6-13ans ",
+      "groupCode": "G6"
+    },
+    {
+      "name": "total décès hospitaliers",
+      "type": "indicator",
+      "dhisID": "GBody1oS7q4",
+      "dhisName": "CHRD Proportion décès de paludisme en milieu hospitalier",
+      "groupCode": "G7"
+    },
+    {
+      "name": "0-5 ans",
+      "type": "indicator",
+      "dhisID": "STm0ZR3Uyqh",
+      "dhisName": "CHRD Proportion décès de paludisme en milieu hospitalier -5ans",
+      "groupCode": "G7"
+    },
+    {
+      "name": "5 - 14 ans",
+      "type": "indicator",
+      "dhisID": "GLRltkkV7AX",
+      "dhisName": "CHRD Proportion de décès du Paludisme chez les 5 - 14 ans ",
+      "groupCode": "G7"
+    },
+    {
+      "name": "14+",
+      "type": "indicator",
+      "dhisID": "iGhivwG9ESA",
+      "dhisName": "CHRD Proportion de décès du Paludisme chez  les 14+ ans",
+      "groupCode": "G7"
+    },
+    {
+      "name": "Chez FE",
+      "type": "indicator",
+      "dhisID": "ZMkOGJ5zkM1",
+      "dhisName": "CHRD Proportion de deces du Paludisme chez  les Femmes Enceintes",
+      "groupCode": "G7"
+    },
+    {
+      "name": "Létalité paludisme grave et compliqué",
+      "type": "indicator",
+      "dhisID": "CYQEkP3xvza",
+      "dhisName": "CHRD Taux de letalite en Paludisme grave et complique",
+      "groupCode": "G7"
+    },
+    {
+      "name": "Létalité hospitalière paludisme",
+      "type": "indicator",
+      "dhisID": "qOcDyeEy6iG",
+      "dhisName": "CHRD Taux de letalite specifique du paludisme en milieu hospitalier",
+      "groupCode": "G7"
+    }
+  ],
+  "indicatorGroup": [
+    {
+      "code": "G1",
+      "name": "Dépistage CSB",
+      "titre": "Taux de cas téstés positifs par RDT (%)"
+    },
+    {
+      "code": "G2",
+      "name": "Référénce CSB",
+      "titre": "Proportion de cas paludisme grave référé (%)"
+    },
+    {
+      "code": "G3",
+      "name": "Traitement CSB",
+      "titre": "Proportion de cas de paludisme simple confirmés traités (%)"
+    },
+    {
+      "code": "G4",
+      "name": "Prévention CSB ",
+      "titre": "Proportion de patients ayant reçu des services de prévention (%)"
+    },
+    {
+      "code": "G5",
+      "name": "Suivi CSB ",
+      "titre": "Suivi des prestations (Nombre)"
+    },
+    {
+      "code": "G6",
+      "name": "Gestion des intrants CSB ",
+      "titre": "Taux de disponibilité de produits et médicaments paludisme (%)"
+    },
+    {
+      "code": "G7",
+      "name": "Décès dus au paludisme CHRD",
+      "titre": "Proportion de cas de décès pour paludisme (%)"
+    }
+  ]
+}
